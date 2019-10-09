@@ -24,6 +24,8 @@ header{
 	color: white; /* more readable on an orange background */
 	padding-top: 50px;
 	padding-bottom: 50px;
+	padding-right: 50px;
+	padding-left: 50px;
 }
 
 #main{
@@ -62,44 +64,12 @@ nav a:hover{
 
 #maintitle{
 	margin-top: 2em;
+	padding-right: 1.5em;
+	padding-left: 1.5em;
 }
 
 
-#mh2  {margin-left: 1em;
-}
 
-#mh4 {
-	margin-left: 1em;
-}
-
-#mh6 {
-	margin-left: 1em;
-}
-
-#cctv2{
-margin-left: 1em;
-}
-
-#cctv4{
-	margin-left: 1em;
-}
-
-#cctv9{
-	margin-left: 1em;
-}
-
-#markings2{
-	margin-left: 1em;
-}
-
-
-#antenna2{
-	margin-left: 1em;
-}
-
-#antenna4{
-	margin-left: 1em;
-}
 /* Simple grid */
 .g-row{
 	width: 100%;
